@@ -1,32 +1,30 @@
-# Python Zero to Hero — Interactieve Cursus
+# 🐍 Python Zero to Hero
 
-Een professionele, lokale Python-leerapplicatie met AI-tutor, live code editor en gamificatie.
+A professional, locally-hosted Python learning app with AI tutor, live code editor and gamification.
 
-## 🚀 Snelstart
+## 🚀 Quick Start
 
-### 1. Installeer dependencies
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Start de app
+### 2. Start the app
 ```bash
 python app.py
 ```
 
 ### 3. Open in browser
-```
 http://localhost:5000
-```
 
 ---
 
-## 🎓 Wat zit er in?
+## 🎓 What's inside?
 
-**15 Lessen — Van beginner tot gevorderd:**
+**15 Lessons — From beginner to advanced:**
 
-| # | Onderwerp | Categorie | XP |
-|---|-----------|-----------|-----|
+| # | Topic | Category | XP |
+|---|-------|----------|----|
 | 1 | Hello World | Basics | 50 |
 | 2 | Variables | Basics | 75 |
 | 3 | Strings | Basics | 75 |
@@ -43,25 +41,25 @@ http://localhost:5000
 | 14 | List Comprehensions | Advanced | 150 |
 | 15 | Modules & Imports | Advanced | 150 |
 
-**Totaal: 1.825 XP te verdienen**
+**Total: 1,825 XP to earn**
 
 ---
 
 ## ✨ Features
 
-- **Live Code Editor** met syntax highlighting (CodeMirror)
-- **Directe code uitvoering** in een veilige sandbox
-- **AI Tutor** — stel vragen over elke les (via Claude API)
-- **XP Systeem** — verdien punten bij elke voltooide les
-- **Progressie tracking** — bijgehouden via sessie
-- **Hints** — als je vastzit
-- **Voorbeeldcode** — laad direct in de editor
+- **Live Code Editor** with syntax highlighting (CodeMirror)
+- **Instant code execution** in a secure sandbox
+- **AI Tutor** — ask questions about any lesson (via Claude API)
+- **XP System** — earn points for every completed lesson
+- **Progress tracking** — saved across sessions
+- **Hints** — available whenever you're stuck
+- **Example code** — load directly into the editor
 
 ---
 
-## 🔧 Technische Details
+## 🔧 Tech Stack
 
 - **Backend**: Python + Flask
 - **Frontend**: Vanilla HTML/CSS/JS + CodeMirror
-- **AI**: Claude claude-sonnet-4-20250514 via Anthropic API
-- **Code sandbox**: subprocess met timeout-beveiliging
+- **AI**: Claude claude-sonnet-4 via Anthropic API
+- **Code sandbox**: subprocess with timeout protection
