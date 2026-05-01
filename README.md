@@ -34,7 +34,7 @@ No accounts. No subscriptions. Runs entirely on your own machine.
 ### Install & Run
 
 ```bash
-git clone https://github.com/Cipher403/pythonZero-to-Hero.git
+git clone https://github.com/Cipher403/python-Zero-to-Hero.git
 cd python-tutor
 pip install -r requirements.txt
 python app.py
