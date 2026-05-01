@@ -1,4 +1,4 @@
-# 🐍 Python Zero to Hero — Interactieve Cursus
+# Python Zero to Hero — Interactieve Cursus
 
 Een professionele, lokale Python-leerapplicatie met AI-tutor, live code editor en gamificatie.
 
